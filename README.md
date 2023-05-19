@@ -2,10 +2,9 @@
 
 ___
 
-### 💻 Project Demo Video
+### 💻 Live Demo
 
-
-https://user-images.githubusercontent.com/114568869/230581267-638b4f90-3879-4df3-bc42-09a62dacc995.mp4
+https://personalportwebsite.netlify.app/
 
 ### 👨‍💻 About the project:
 
